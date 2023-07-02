@@ -1,3 +1,3 @@
 <?php
 
-echo 'make c file';
+echo 'make c-c file';
