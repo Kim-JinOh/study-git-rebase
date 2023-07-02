@@ -1,3 +1,3 @@
 <?php
 
-echo 'make b-2 file';
+echo 'make b-3 file';
