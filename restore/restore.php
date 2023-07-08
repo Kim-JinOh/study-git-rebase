@@ -1,3 +1,3 @@
 <?php
 
-echo 'old version';
+echo 'new version';
